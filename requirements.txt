@@ -1,3 +1,1 @@
-python-telegram-bot
-flask
-requests
+8941257296:AAFqItU5MpK6KnQxbq55RJu57ad9QCpast0
